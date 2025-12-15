@@ -1,0 +1,16 @@
+{
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.ObjectNamePrefix": "BSB ",
+    "CRS.OnSaveAlFileAction":  "Rename",
+    "workbench.colorTheme": "Default High Contrast",
+    "editor.mouseWheelZoom": true,
+    "workbench.iconTheme": "vscode-icons",
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}",
+        "${PerTenantExtensionCop}"
+    ],
+    "al.enableCodeAnalysis": false
+}
