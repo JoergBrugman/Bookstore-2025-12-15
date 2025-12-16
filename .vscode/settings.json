@@ -12,5 +12,6 @@
         "${UICop}",
         "${PerTenantExtensionCop}"
     ],
-    "al.enableCodeAnalysis": false
+    "al.enableCodeAnalysis": true,
+    "editor.snippetSuggestions": "bottom"
 }

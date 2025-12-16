@@ -9,6 +9,23 @@ tableextension 50100 "BSB Customer" extends Customer
         {
             Caption = 'Favorite Book No.';
             TableRelation = "BSB Book";
+            ToolTip = 'Specifies the value of the Favorite Book No. field.', Comment = '%';
+
+            trigger OnValidate()
+            var
+                BSBBook: Record "BSB Book";
+            begin
+                // if ("BSB Favorite Book No." <> '') and
+                //     ("BSB Favorite Book No." <> xRec."BSB Favorite Book No.")
+                // then begin
+                //     BSBBook.Get("BSB Favorite Book No.");
+                //     BSBBook.TestBlocked();
+                // end;
+                if ("BSB Favorite Book No." <> '') and
+                    ("BSB Favorite Book No." <> xRec."BSB Favorite Book No.")
+                then
+                    BSBBook.TestBlocked("BSB Favorite Book No.");
+            end;
         }
         field(50101; "BSB Favorite Book Description"; Text[100])
         {
@@ -16,6 +33,7 @@ tableextension 50100 "BSB Customer" extends Customer
             Editable = false;
             FieldClass = FlowField;
             CalcFormula = lookup("BSB Book".Description where("No." = field("BSB Favorite Book No.")));
+            ToolTip = 'Specifies the value of the Favorite Book Description field.', Comment = '%';
         }
     }
 }
