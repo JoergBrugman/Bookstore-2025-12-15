@@ -19,6 +19,7 @@ table 50100 "BSB Book"
         field(3; "Search Description"; Code[100])
         {
             Caption = 'Search Description';
+            //TODO Search Description standardkonform implementieren
         }
         field(4; Blocked; Boolean)
         {
@@ -34,11 +35,13 @@ table 50100 "BSB Book"
         {
             Caption = 'Created';
             Editable = false;
+            //TODO Created automatisch befüllen
         }
         field(8; "Last Date Modified"; Date)
         {
             Caption = 'Last Date Modified';
             Editable = false;
+            //TODO LÖast Date Modified automatisch befüllen
         }
         field(10; Author; Text[50])
         {
@@ -70,6 +73,8 @@ table 50100 "BSB Book"
             Caption = 'Date of Publishing';
         }
     }
+    //[ ] Das Löschen eines Buchs soll unbedingt verhindert werden
+    //[ ] Procedure TestBlocked() implementieren
     keys
     {
         key(PK; "No.")
