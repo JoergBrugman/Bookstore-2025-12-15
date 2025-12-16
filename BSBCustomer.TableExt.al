@@ -1,3 +1,6 @@
+/// <summary>
+/// TableExtension BSB Customer (ID 50100) extends Record Customer.
+/// </summary>
 tableextension 50100 "BSB Customer" extends Customer
 {
     fields
