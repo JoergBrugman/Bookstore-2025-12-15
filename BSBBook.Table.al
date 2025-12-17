@@ -166,4 +166,23 @@ table 50100 "BSB Book"
         BSBBook.TestField(Blocked, false);  // Eigentliche Prüfung an EINER zentralen Stelle
     end;
 
+    procedure ShowCard()
+    begin
+        ShowCard(Rec);
+    end;
+
+    procedure ShowCard(BookNo: Code[20])
+    var
+        BSBBook: Record "BSB Book";
+    begin
+        if BookNo = '' then
+            exit;
+        BSBBook.Get(BookNo);
+        ShowCard(BSBBook);
+    end;
+
+    local procedure ShowCard(var BSBBook: Record "BSB Book")
+    begin
+        Page.RunModal(page::"BSB Book Card", BSBBook);
+    end;
 }
