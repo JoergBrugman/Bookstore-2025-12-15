@@ -125,8 +125,14 @@ table 50100 "BSB Book"
     end;
 
     //[x] Das Löschen eines Buchs soll unbedingt verhindert werden
+    //Das Handled-Event-Pattern sorgt darfür, dass ein Subscriber seine eigene Logik zur Löschprüfung implementieren kann!
     trigger OnDelete()
+    var
+        IsHandled: Boolean;
     begin
+        OnBeforeOnDelete(Rec, IsHandled);
+        if IsHandled then
+            exit;
         Error(OnDeleteBookErr);
     end;
 
@@ -182,5 +188,10 @@ table 50100 "BSB Book"
     local procedure ShowCard(var BSBBook: Record "BSB Book")
     begin
         Page.RunModal(page::"BSB Book Card", BSBBook);
+    end;
+
+    [IntegrationEvent(false, false)]
+    local procedure OnBeforeOnDelete(var Rec: Record "BSB Book"; var IsHandled: Boolean)
+    begin
     end;
 }
