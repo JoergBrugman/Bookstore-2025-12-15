@@ -38,12 +38,10 @@ table 50100 "BSB Book"
             Caption = 'Blocked';
             ToolTip = 'Specifies the value of the Blocked field.', Comment = '%';
         }
-        field(5; Type; Option)
+        field(5; Type; enum "BSB Book Type")
         {
             Caption = 'Type';
             ToolTip = 'Specifies the value of the Type field.', Comment = '%';
-            OptionMembers = " ",Hardcover,Paperback;
-            OptionCaption = ' ,Hardcover,Paperback';
         }
         field(7; Created; Date)
         {
