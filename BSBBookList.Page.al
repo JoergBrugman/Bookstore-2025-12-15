@@ -110,6 +110,8 @@ page 50101 "BSB Book List"
                 begin
                     BSBBookTypeProcess := Rec.Type;
                     BSBBookTypeProcess.StartDeployBook();
+                    if BSBBookTypeProcess is "BSB Book Type Process V2" then
+                        (BSBBookTypeProcess as "BSB Book Type Process V2").StartQualityCheck();
                     BSBBookTypeProcess.StartDeliverBook();
                 end;
             }
