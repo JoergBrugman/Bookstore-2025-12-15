@@ -1,3 +1,4 @@
 *.app
 .vscode/rad.json
 .vscode/.alcache
+*.g.xlf

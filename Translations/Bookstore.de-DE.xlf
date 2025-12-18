@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="Bookstore">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3249233238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book </source>
+          <target state="translated">Buch</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - NamedType 2141700304" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A Book cannot be deleted</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - NamedType OnDeleteBookErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 2842729223 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Author field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Author - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 2842729223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Author</source>
+          <target state="translated">Autor</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Author - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 2660161043 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Author Provision % field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Author Provision % - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 2660161043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Author Provision %</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Author Provision % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Blocked field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 1249475212 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Created field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Created - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 1249475212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 3598678408 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date of Publishing field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Date of Publishing - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 3598678408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Publishing</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Date of Publishing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 871310557 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Edition No. field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Edition No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 871310557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edition No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Edition No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 1328823306 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ISBN field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field ISBN - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 1328823306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ISBN</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field ISBN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 2393253273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Last Date Modified field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Last Date Modified - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 2393253273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Date Modified</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Last Date Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field. (Table)</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 2755520618 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. of Pages field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field No. of Pages - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 2755520618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Pages</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field No. of Pages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 1180181476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Search Description field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Search Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 1180181476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Description</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Search Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Type field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3249233238 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3524322914 - NamedType 1969826809" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do not forget to enter %1 in %2 %3 %4</source>
+          <target state="translated">Bitte vergessen Sie nicht %1 ind %2 %3 %4 einzugeben</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Bitte vergessen Sie nicht %1 ind %2 %3 %4 einzugeben</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Subscriber Store - NamedType FavoriteBookHintMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 2961589650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book Card</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2961589650 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2961589650 - Control 1450094168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoicing</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Invoicing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2961589650 - Control 3202648555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Publishing</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Card - Control Publishing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 826345865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book Details</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Factbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 826345865 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book Factbox - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834728084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Books</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834728084 - Action 1111568727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Classic</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Action ClassicProgramming - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834728084 - Action 3245378402 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Create Books action.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Action CreateBooks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834728084 - Action 3245378402 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Books</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Action CreateBooks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834728084 - Action 2434717984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface with Enum</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Action InterfaceWithEnum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834728084 - Action 3843323849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plain Interface</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Book List - Action PlainInterface - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166640549 - Control 690755111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Bookstore</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BSB Customer Card - Control BSB Bookstore - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1769397817 - Field 3584006676 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Specifies the value of the Favorite Book Description field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSB Customer - Field BSB Favorite Book Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1769397817 - Field 3584006676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Favorite Book Description</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSB Customer - Field BSB Favorite Book Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1769397817 - Field 2212262507 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Specifies the value of the Favorite Book No. field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSB Customer - Field BSB Favorite Book No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1769397817 - Field 2212262507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Favorite Book No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSB Customer - Field BSB Favorite Book No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 261693002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profile to use Bookstore</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile BSB Bookstore Profile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3135438230 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum BSB Book Type - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3135438230 - EnumValue 3902073686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hardcover</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum BSB Book Type - EnumValue Hardcover - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3135438230 - EnumValue 723394863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Paperback</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum BSB Book Type - EnumValue Paperback - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 675538791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit and Create Books etc.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet BSB BOOKSTORE, EDIT - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

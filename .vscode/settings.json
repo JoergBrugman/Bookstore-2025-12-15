@@ -13,5 +13,6 @@
         "${PerTenantExtensionCop}"
     ],
     "al.enableCodeAnalysis": true,
-    "editor.snippetSuggestions": "bottom"
+    "editor.snippetSuggestions": "bottom",
+    "xliffSync.parseFromDeveloperNote": true
 }
